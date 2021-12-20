@@ -1,7 +1,7 @@
 # SMART STATION-Installation Process 
 
 -----
-![Smart Station](https://github.com/bhupendra-1/Smart 
+https://github.com/bhupendra4/smart-station.git
 
 A simple Smart Station made using WEBRTC, socket.io and nodejs
 
